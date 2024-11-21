@@ -1,0 +1,26 @@
+{
+	"name": "心血管循環系統",
+	"version": "1.0.0.0",
+	"description": "心血管循環系統",
+	"id": "com.company.cardiovascular",
+	"unique-id": "wg7h894fafp",
+	"viewport-width": 1920,
+	"viewport-height": 1080,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r407.2",
+	"ife": false,
+	"used-plugins": [
+		"Sprite",
+		"Touch",
+		"video",
+		"Audio"
+	],
+	"used-behaviors": [
+		"DragnDrop",
+		"Flash"
+	]
+}
